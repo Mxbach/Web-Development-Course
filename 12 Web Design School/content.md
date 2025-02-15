@@ -69,6 +69,16 @@ Ways to establish hierarchy
 ### 5. Audience
 - design for your target audience
 
+## UX Design
+1. Simplicity
+2. Consitency
+3. Reading patterns
+    - F-Layout
+    - Z-Layout
+4. All Plattform Design
+    - Desktop vs. mobile
+5. Do not use this knowledge for "evil" causeses
+
 ## Links
 - [Adobe Color](https://color.adobe.com/de/)
 - [Color Hunt](https://colorhunt.co/)
