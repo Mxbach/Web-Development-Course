@@ -1,0 +1,19 @@
+.hero{
+    background-color: #b3c8cf;
+}
+
+.text{
+    color: #f0efef;
+}
+
+.intro-text {
+  font-family: "Cookie", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 142px;
+}
+
+.intro-text-sub{
+    font-weight: 600;
+    font-size: 65px;
+}
